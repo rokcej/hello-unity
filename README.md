@@ -1,6 +1,6 @@
 # Hello Unity
 
-Space shooter game made in Unity. A WebGL demo is available [here](https://rokcej.github.io/hello-unity/).
+Space shooter game made in Unity. A WebGL demo is available [here](https://rokcej.github.io/hello-unity/webgl-demo).
 
 ## Credits
 
